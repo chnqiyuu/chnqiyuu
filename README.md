@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Qiyu Chen (陈祺钰)
 
-<!--
-**chnqiyuu/chnqiyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **direct-track Ph.D. student** at **Fudan University**,  
+in the **School of Future Information Innovation**, majoring in **Telecommunications Engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Intelligent Communication Systems  
+- Signal Processing & Wireless Networks  
+- AI for Information and Communication Technology  
+- Machine Learning & Optimization
+
+---
+
+## 🌐 My Pages
+
+- 🔗 [Academic Homepage (AcadHomepage)](https://chnqiyuu.github.io/)
+- 📄 [Google Scholar] – coming soon
+- 🧠 [Ongoing Projects & Papers] – coming soon
+
+---
+
+## 📫 Contact
+
+- Email: 25113090090@example.com
+- GitHub: [chnqiyuu](https://github.com/chnqiyuu)
+
+---
+
+> ✨ *Welcome to my academic world. Stay curious, stay connected.*
