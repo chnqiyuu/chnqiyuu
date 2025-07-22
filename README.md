@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Qiyu Chen (陈祺钰)
+# 👋 Hi, I'm Qiyu Chen
 
 🎓 I'm a **direct-track Ph.D. student** at **Fudan University**,  
 in the **School of Future Information Innovation**, majoring in **Telecommunications Engineering**.
